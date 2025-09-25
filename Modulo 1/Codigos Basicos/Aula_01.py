@@ -1,0 +1,6 @@
+print('Hello world!!')
+print('ola')
+nome = input('Qual seu nome?: ')
+print('ola',nome)
+idade = int(input('Quantos anos você tem?:'))
+print('ola',nome,'Você tem',idade,'anos')

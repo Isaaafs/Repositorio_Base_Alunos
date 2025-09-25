@@ -1,0 +1,5 @@
+produto = float(input('Qual o preço do produto? '))
+desconto = float(input('Qual a porcentagem do desconto? '))
+porcentagem = produto*(desconto/100)
+print('O produto que custa', produto,'tera', produto*(desconto/100),'de desconto' )
+print(f'O produto que custa {produto} terá {produto*(desconto/100)} de desconto')
